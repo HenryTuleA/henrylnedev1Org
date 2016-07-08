@@ -1,6 +1,5 @@
 public with sharing class viewSurveyResultsComponentController {
-/* Add comment here */
-/* Second comment here */
+
 public String surveyId {get;set;}
 
 
